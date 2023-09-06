@@ -1,1 +1,1 @@
-# [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3uaros0k11jl34y0mkdahrzdo&cover_image=true&theme=default&bar_color=4e5fda)](https://spotify-github-profile.vercel.app/api/view?uid=3uaros0k11jl34y0mkdahrzdo&redirect=true)
+# [[https://spotify-github-profile.vercel.app/api/view.svg?uid=3uaros0k11jl34y0mkdahrzdo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3uaros0k11jl34y0mkdahrzdo&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)]]
